@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x188e543e2317525c24a2c2290c064756f30fdedd",
+  "SCAN_LINK": "https://polygonscan.com/token/0x188e543e2317525c24a2c2290c064756f30fdedd",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Skullies Club",
+  "SYMBOL": "Skullies Club NFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 1000000,
+  "MARKETPLACE": "OpeanSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/theskulliesclub",
+  "SHOW_BACKGROUND": true
+}

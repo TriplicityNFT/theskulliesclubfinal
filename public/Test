@@ -1,0 +1,6 @@
+<StyledImg alt={"example"} src={"/config/images/example.gif"} />   208
+<StyledImg
+              alt={"example"}
+              src={"/config/images/example.gif"}
+              style={{ transform: "scaleX(1)" }}
+            /> 373
